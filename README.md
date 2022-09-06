@@ -6,9 +6,7 @@
 
 
 
-<h3>Stargazers</h3>
 
-[![Stargazers repo roster for @Yashkapure06/netflix-clone](https://reporoster.com/stars/dark/Yashkapure06/netflix-clone)](https://github.com/Yashkapure06/netflix-clone/stargazers)
         
         
 ***
